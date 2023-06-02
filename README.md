@@ -22,6 +22,6 @@ I recommend `pip install -r requirements.txt`.
 
 # About the [USBDrop](./Script/main.py)
 
-This is a simple script, intended for simple usage and output
+This is a simple script, intended for simple usage and output.
 
 ### ** Execute the script in `administrator mode`!
